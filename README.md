@@ -29,4 +29,5 @@ Matching Transactions: The platform facilitates transactions between borrowers a
 Fee Collection: Lending Club charges service fees from both borrowers and investors, which serve as its revenue source.
 
 - Summary
+  
 Lending Club creates a win-win situation by offering a convenient lending channel for borrowers and investment opportunities for investors. Borrowers obtain the funds they need, while investors earn potential high returns through lending. The platform plays a crucial intermediary role in ensuring smooth transactions and earns profits from the fees charged.
