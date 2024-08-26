@@ -4,8 +4,8 @@
 Lending Club is an online P2P (peer-to-peer) lending platform that connects borrowers and investors, offering personal loan services. The business logic of Lending Club primarily involves three parties: borrowers, investors (or lenders), and the platform itself. Below is an overview of their respective roles and interactions:
 
 - Borrowers
-Role and Needs: Borrowers are typically individuals seeking personal loans, which they may need for various purposes such as debt consolidation, home improvement, medical expenses, or other personal expenditures.
-
+  
+-- Role and Needs: Borrowers are typically individuals seeking personal loans, which they may need for various purposes such as debt consolidation, home improvement, medical expenses, or other personal expenditures.
 Process:
 Borrowers submit a loan application through the Lending Club platform, providing necessary personal and financial information.
 The platform uses an internal credit assessment system to evaluate the borrower’s risk, assigning a credit rating and corresponding interest rate.
